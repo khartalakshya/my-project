@@ -1,0 +1,22 @@
+.container
+{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color:rgb(176, 188, 156);
+}
+body{
+    background-color:rgb(176, 188, 156);
+}
+.col-lg-6
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.heading
+{
+    display: grid;
+    justify-content: center;
+    background-color: aquamarine;
+}
